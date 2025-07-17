@@ -76,7 +76,11 @@ Because Task Manager is nice, but sometimes you just want to get **nerdy with nu
 
 ## 🖤 License
 
-MIT License – do whatever you want with it.
+This project is licensed under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
+
+You are **free to use, modify, and share** this project — just **credit** the original author:
+
+**Created by [Onslaught2342](https://github.com/onslaught2342)**
 
 ---
 
